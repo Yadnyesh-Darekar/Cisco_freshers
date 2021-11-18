@@ -1,7 +1,7 @@
 Hi
 File chack done
 This is Yadnyesh Darekar
-Tum jo pakadlo hat mera girke sambhal sakata hu mai
-..........
-hi please don't harm me
-New line added
+
+Your reading Content of read.txt file in My repository
+
+Thank you..!!!!
